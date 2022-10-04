@@ -13,4 +13,5 @@ Test set:
 - Input: two thousand satellite images
 
 ## Data preprocessing:
-- Resize the image: The original images and boolean masks are of size 512 x 512. They are resized to 128 x 128 to improve the computational efficiency.
+- Resize the image: 
+The original images and boolean masks are of size 512 x 512. They are resized to 128 x 128 to improve the computational efficiency.
