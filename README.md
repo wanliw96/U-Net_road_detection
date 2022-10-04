@@ -14,4 +14,4 @@ Test set:
 
 ## Data preprocessing:
 - Resize the image: The original images and boolean masks are of size 512 x 512. They are resized to 128 x 128 to improve computational efficiency.
-- Data augmentation: To enlarge the training set, provide the model with different angles from the same image. We applied horizontal flip, vertical flip, and ninety-degree rotation to our dataset with the imgaug package (https://github.com/aleju/imgaug).
+- Data augmentation: To enlarge the training set, provide the model with different angles from the same image. We applied horizontal flip, vertical flip, and ninety-degree rotation to our dataset using the imgaug package (https://github.com/aleju/imgaug).
